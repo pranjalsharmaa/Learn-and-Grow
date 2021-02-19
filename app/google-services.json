@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340192464700",
+    "project_id": "learn-and-grow-ac880",
+    "storage_bucket": "learn-and-grow-ac880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340192464700:android:225598a477091bd9841839",
+        "android_client_info": {
+          "package_name": "com.pranjal.learnandgrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340192464700-k4eqo892frule54ge5gji2immipaflr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8CNZozFmy_B6gVaTJdFPrIMFPcxL1boo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340192464700-k4eqo892frule54ge5gji2immipaflr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
